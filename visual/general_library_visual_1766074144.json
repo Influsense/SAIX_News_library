@@ -1,0 +1,15 @@
+{
+  "id": "general_library_visual_1766074144",
+  "context": "general_library",
+  "prompt": "A scene representing: General world events, technological breakthroughs, and geopolitical shifts in the year 2026. Focus on the global digital divide, sovereign AI initiati...",
+  "timestamp": "2025-12-18T16:09:04.049Z",
+  "assetType": "VIDEO_CONCEPT",
+  "linkedImage": "general_library_visual_1766074144.png",
+  "directorInsights": {
+    "camera_movement": "A slow, methodical push-in, starting from an abstract global view and gradually revealing a starkly divided digital landscape, emphasizing juxtaposition.",
+    "lighting_setup": "Split lighting across the frame: One half is bathed in intense, pulsing cool blue and green algorithmic light, representing data and AI. The other half is cloaked in deep, warm shadows, with only minimal, struggling amber light sources or pixelated static.",
+    "subject_action": "On the 'advanced' side, hyper-dense, rapidly evolving holographic data streams, complex network graphs, and abstract, glowing AI constructs are in constant, fluid motion. On the 'divide' side, static silhouettes of desolate, dark landscapes or faint, struggling, pixelated digital artifacts with minimal, sporadic flicker are visible.",
+    "mood_atmosphere": "A sense of overwhelming, accelerating technological advancement juxtaposed with profound stagnation and disconnection, evoking both awe and quiet unease.",
+    "suggested_audio": "An asymmetrical soundscape: One channel features intricate, high-frequency digital chirps, data processing sounds, and synthetic pulses. The other channel offers a low, guttural, sustained drone with distant, almost imperceptible static or a melancholic, sustained synth pad, creating a profound sonic void."
+  }
+}
