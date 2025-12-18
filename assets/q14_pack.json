@@ -1,0 +1,31 @@
+{
+  "packId": "SAIX-Q14-Breach",
+  "readme": "This content pack provides three lore items - a news article, an internal memo, and an intercepted communication - to deepen the narrative around the 'Quarter Fourteen' breach, emphasizing the sophisticated attack, murky attribution, and high stakes for organizational credibility.",
+  "items": [
+    {
+      "type": "NEWS_ARTICLE",
+      "headline": "Cyber Veil Descends: Outer Defenses Breached, Attribution Remains Elusive",
+      "body": "Reports indicate a sophisticated cyberattack has successfully penetrated the outer defensive perimeters of a major global entity, plunging critical infrastructure nodes into 'red-level' alert status. While official statements remain sparse, experts across the net are grappling with the unprecedented complexity of the intrusion. Initial assessments struggle to pinpoint origin, leading to rampant speculation about a potential state-sponsored campaign or aggressive corporate espionage. The lack of a clear adversary has ignited widespread concern regarding the fragility of global digital security and the potential for cascading economic fallout. Public confidence is wavering as the silence from affected parties only deepens the shadows of uncertainty.",
+      "source": "NetGlobal Monitor",
+      "date": "2077-10-27",
+      "flavor": "The digital world holds its breath, uncertain of who to fear or trust."
+    },
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "URGENT: Q14 Perimeter Breach - Strategic Response Imperative",
+      "body": "To: All Senior Management, Security CouncilFrom: Office of the CEO, Project SAIXDate: 2077-10-28Subject: Strategic Imperative - Quarter Fourteen Perimeter BreachThe incident designated 'Quarter Fourteen' has exposed critical vulnerabilities within our outer defense architecture. While primary systems remain isolated and under full containment protocols, the depth and sophistication of this intrusion are alarming. Attribution remains murky, with forensic teams exploring multiple vectors, including state-level actors and aggressive corporate competitors. This breach is not merely a technical failure; it is a direct challenge to our operational integrity and, more critically, our credibility. The next several weeks will define SAIX's standing for the coming decade. All departmental heads are to prioritize security review and collaboration with the incident response team. Failure to provide a decisive, unified response will have irreversible consequences.",
+      "source": "SAIX Corporate HQ",
+      "date": "2077-10-28",
+      "flavor": "The air in HQ is thick with dread and the acrid smell of ozone from fried servers. Careers, and possibly more, hang in the balance."
+    },
+    {
+      "type": "INTERCEPTED_COMM",
+      "headline": "Encrypted Channel - Red Shadow Confirmed",
+      "body": "Source: 'Nightshade'Destination: 'Oracle'Message: Oracle, Red lights blinking on target 'S1'. Outer perimeter compromised. 'Shadows' are in. Attribution still fragmented but strong indicators point to 'Phoenix Protocol' activation. This is far beyond a 'competitor' play. Expect severe reputational damage. Our window is now. Awaiting next directive.",
+      "source": "Unknown - High-Gain SigInt",
+      "date": "2077-10-29",
+      "flavor": "A whisper in the dark, revealing layers of deceit far beyond the public's understanding. The real game has just begun."
+    }
+  ],
+  "context": "q14.mp3"
+}
