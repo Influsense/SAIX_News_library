@@ -1,0 +1,31 @@
+{
+  "packId": "SAIX-Q11-AdminShift",
+  "readme": "This content pack provides three lore items (News Article, Internal Memo, Intercepted Comm) that establish the political landscape surrounding a new administration in Washington during 'Quarter Eleven'. The items explore the strategic dilemma faced by key players: whether to solidify existing partnerships or exploit the instability to sever ties, all under a pervasive tone of uncertainty and watchfulness.",
+  "items": [
+    {
+      "type": "NEWS_ARTICLE",
+      "headline": "Washington's New Guard: Markets Wary as Policy Direction Remains Murky",
+      "body": "Following the recent 'Guard Change' in Washington, capital markets are exhibiting significant caution. Analysts point to the nascent administration's undefined policy stances across key sectors, leading to widespread speculation. Major corporate entities, particularly those with deep-seated federal contracts, are reportedly reassessing their long-term strategic alignments. 'This isn't just a pivot, it's a complete reorientation,' noted financial pundit Dr. Aris Thorne. 'Every major player is holding their breath, waiting for a definitive signal or, perhaps, preparing to move without one.' The lack of clear communication from the new regime continues to fuel anxieties, especially concerning regulatory oversight and federal resource allocation, as Quarter Eleven unfolds.",
+      "source": "The Global Ledger",
+      "date": "2077-10-15",
+      "flavor": "A public-facing analysis reflecting the general unease and speculative atmosphere surrounding the new administration."
+    },
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "Q11 Strategic Posture: Navigating the Washington Realignment",
+      "body": "TO: Strategic Oversight Committee. FROM: Office of Corporate Resilience. DATE: 2077-10-18. SUBJECT: Q11 Strategic Posture: Navigating the Washington Realignment. As we enter Quarter Eleven, the 'Guard Change' in Washington presents both unprecedented risks and potential opportunities. The new administration's shifting priorities demand immediate and decisive action regarding our federal engagements. The core dilemma remains: should we proactively seek to lock in our current partnership agreements, leveraging any momentary distraction in their transition, or should we instead evaluate opportunities to strategically disengage and pursue entirely new avenues? Analysis indicates that while a rapid consolidation could secure our position, a 'cut-the-cord' strategy might allow for greater agility in a rapidly evolving landscape. All divisions are to submit risk assessment and opportunity reports concerning both pathways by 2077-10-25. Preparedness for either scenario is paramount.",
+      "source": "Corporate Resilience Office, [REDACTED] Corporation",
+      "date": "2077-10-18",
+      "flavor": "An urgent internal directive outlining the strategic choices and their implications for a powerful corporation."
+    },
+    {
+      "type": "INTERCEPTED_COMM",
+      "headline": "Feed Delta-7: 'Watchdog' on the Move Post-Shift",
+      "body": "SECURE CHANNEL - ANALYST NOTE: Intercepted from known 'Watchdog' network, low-tier operative chatter. TIME: 2077-10-20, 03:47 GMT. CONTENT: 'Yeah, heard a lot of noise from the [CENSORED] camps. New bosses up in Washington got everyone spooked. Word is, they're either going all in with the big boys, or cutting them loose. Think it's the latter. Too much static, too many new faces. Old ties getting frayed. The 'Watchdog' will need to be ready to pivot. Anyone not tied down will be looking for new feeders, new leverage. Big changes coming, stay sharp. This isn't just a political reshuffle, it's a full system reset. Keep eyes on high-value targets, especially those vulnerable in the flux.' END COMM. ANALYST RPT: Implies significant strategic decisions by major entities in response to the administrative change, seen as an opportunity for opportunistic groups.",
+      "source": "Federal Intelligence Oversight (FIO) - Classified Intercept",
+      "date": "2077-10-20",
+      "flavor": "A cryptic, covert communication from an external observer, hinting at the instability and strategic maneuvering of various factions in Washington."
+    }
+  ],
+  "context": "q11.mp3"
+}
