@@ -1,0 +1,31 @@
+{
+  "packId": "TSMC_Crisis_Q6",
+  "readme": "This content pack details the rapidly escalating crisis in the Taiwan Strait, focusing on the immediate threat to TSMC's foundries and the subsequent global supply chain collapse, specifically impacting GPU availability. It underlines the urgent need for action as 'the silence from Taipei becomes permanent.'",
+  "items": [
+    {
+      "type": "NEWS_ARTICLE",
+      "headline": "Global Markets Reel as Taiwan Strait Tensions Threaten TSMC Operations",
+      "body": "Taipei, ROC – Amidst heightened military posturing in the Taiwan Strait, global semiconductor giant Taiwan Semiconductor Manufacturing Company (TSMC) has issued a 'Level 3 operational advisory' to its key stakeholders. This unprecedented move signals extreme risk to its cutting-edge fabrication plants, which are responsible for over 90% of the world's most advanced microchips, including critical GPU components. Analysts warn that any disruption could trigger a catastrophic collapse in global technology supply chains, impacting everything from consumer electronics to advanced AI infrastructure. International bodies have called for de-escalation, but diplomatic efforts appear stalled as naval deployments continue to expand in the region. The economic fallout, if TSMC's foundries are compromised, is projected to dwarf previous supply shocks.",
+      "source": "Global Tech Report",
+      "date": "2077-10-23",
+      "flavor": "A grim assessment of the unfolding geopolitical crisis and its devastating impact on the global technology sector."
+    },
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "URGENT: Q6 GPU Supply Chain – Critical Red Alert & Contingency Activation",
+      "body": "MEMORANDUM FOR ALL DIVISION HEADS Subject: Quarter Six GPU Supply Chain – Critical Red Alert & Contingency Activation From: Chief Operations Officer, SAIX Corporation Date: 2077-10-24 08:30 GMT+8 Effective immediately, the Quarter Six GPU supply chain has been elevated to a Critical Red Alert status. Reports from the Taiwan Strait indicate an imminent and unacceptable risk to TSMC's primary fabrication facilities. Our previous assessments of 'logistics problems' are now obsolete; we are facing a direct casualty event for all advanced GPU acquisitions. All existing procurement orders via traditional channels are to be considered compromised and likely unfulfillable. Immediate activation of Contingency Plan 'Orion' is mandatory. Priority is to be given to sourcing alternative, albeit inferior, processing units and securing any remaining orbital or off-world manufacturing allocations. Financial and R&D divisions must reassess project timelines and resource allocations based on a projected 90-day severe GPU scarcity window. We cannot afford to wait for 'silence from Taipei' to confirm the worst. Act now.",
+      "source": "SAIX Corporation - COO",
+      "date": "2077-10-24",
+      "flavor": "An emergency directive from corporate leadership, outlining the catastrophic failure of the GPU supply chain and the desperate measures required to adapt."
+    },
+    {
+      "type": "INTERCEPTED_COMM",
+      "headline": "Priority 1-A Signal Intercept: 'Eastern Winds' Activity Spike",
+      "body": "Source: [REDACTED] // SIGINT Date: 2077-10-24 04:15 GMT+8 --BEGIN TRANSCRIPT-- OPERATOR ONE: Confirmed visual on 'Eastern Winds' Group Delta, approaching 25 nautical miles to designated Exclusion Zone perimeter. OPERATOR TWO: Copy that. Any contact with 'Taipei Echo'? OPERATOR ONE: Negative. Signal has been... erratic for the last three cycles. Presumed jamming. OPERATOR THREE: (static-laced) ...intel suggests target package 'Foundry Prime' is highest priority. Move to secure. OPERATOR ONE: Acknowledged. We are inbound. Silence from the capital is deafening. --END TRANSCRIPT--",
+      "source": "REDACTED // SIGINT",
+      "date": "2077-10-24",
+      "flavor": "A chilling, fragmented intelligence intercept hinting at a direct military maneuver targeting critical infrastructure in Taiwan, specifically TSMC's facilities, and the breakdown of communication."
+    }
+  ],
+  "context": "q6.mp3"
+}
