@@ -1,30 +1,30 @@
 {
-  "packId": "SAIX-Q2-MP3",
-  "readme": "Data center expansion hits a physical wall. The Silicon Chokepoint defines Quarter Two, forcing a choice between the high-performance shackles of NVIDIA hardware and the slow autonomy of European alternatives.",
+  "packId": "saix-q2-mp3",
+  "readme": "The Silicon Chokepoint narrative explores the logistical and political struggle for compute power. With H200s as the primary leverage, the pack highlights the tension between performance-driven dependency and the slow, costly path to hardware sovereignty.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "DOJ Launches Probe into Tech Giants Over H200 Export Loophole",
-      "body": "Federal investigators have flagged a surge in shell corporation activity linked to GPU procurement. As the Commerce Department tightens the leash on H200 shipments, companies are facing a binary choice: comply with glacial licensing or risk blacklisting. The silicon chokepoint is no longer a theory; it is a cage that is rapidly closing on the industry's largest players.",
-      "source": "The Global Financial Daily",
-      "date": "202X-05-14",
-      "flavor": "Regulation is the new hardware barrier."
+      "headline": "Silicon Fever: H200 Scarcity Cripples Global AI Expansion",
+      "body": "The global market for high-end semiconductors has reached a breaking point. NVIDIA H200 units, the undisputed gold standard for AI training, have seen lead times stretch to eighteen months. As the Silicon Chokepoint tightens, emerging tech hubs are facing a stark reality: without the gold standard silicon, their domestic models are falling behind the curve. International regulators are now using export licenses as a geopolitical leash, effectively deciding which nations are allowed to progress and which are forced into digital stagnation.",
+      "source": "Global Tech Monitor",
+      "date": "202X-04-12",
+      "flavor": "The price of entry into the future is measured in nanometers and high-bandwidth memory."
     },
     {
       "type": "INTERNAL_MEMO",
-      "headline": "RE: Q2 Infrastructure Reserve - URGENT",
-      "body": "We have secured a shipment of 4,000 H200 units through the Singapore transit hub. However, the vendor demands a 24-month exclusivity contract. By stockpiling these, we guarantee our AI training speeds but become entirely beholden to their maintenance cycle and proprietary firmware. If we do not sign by EOD, the batch goes to our primary competitor. Choose: performance or independence.",
-      "source": "Chief Technology Officer",
-      "date": "202X-05-18",
-      "flavor": "Gold is heavy, and silicon is the new gold."
+      "headline": "STRATEGIC INFRASTRUCTURE ASSESSMENT: FREEDOM VS. SPEED",
+      "body": "Current projections indicate our dependency on US-manufactured silicon is our greatest vulnerability. While the H200s guarantee immediate performance, the associated export compliance allows for remote kill-switch oversight. We have evaluated European chip alternatives. These platforms offer total sovereign freedom from external licensing, but at a 40 percent reduction in raw processing throughput. We are at a crossroads: we can either run fast on a leash, or walk slowly and free. A decision must be finalized before the Q3 procurement window closes.",
+      "source": "Office of the CTO, SAIX Infrastructure",
+      "date": "202X-05-20",
+      "flavor": "Speed is a drug; sovereignty is the cure. We cannot afford both."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "Encrypted Comms: Euro-Chip Logistics",
-      "body": "We are looking at the ASML-adjacent startups in the EU. No export leash, no oversight from the trade commission. But the benchmarks are abysmal—30 percent slower than the H200 stack on large language model training. Are we willing to trade raw performance for autonomy? The board is getting nervous. If we choose freedom, we might be too late to the market.",
-      "source": "Signal Leak - Ops Lead to CEO",
-      "date": "202X-06-02",
-      "flavor": "Sovereignty has a latency penalty."
+      "headline": "URGENT: LICENSE REVOCATION ALERT",
+      "body": "They are moving faster than we anticipated. The Commerce Department just flagged the batch 9 shipment. If those H200s aren't racked and drawing power by midnight, they are being redirected to the 'National Security Reserve.' The Chokepoint is real and it is closing today. Do not—repeat—do not wait for official clearance. Get the hardware into the server farm now. Once it's integrated, it's harder for them to seize. If we lose this shipment, the project is dead.",
+      "source": "Encrypted Signal Mesh (Node 09-Alpha)",
+      "date": "202X-06-05",
+      "flavor": "The gold standard is only worth something if you can keep it out of the vault."
     }
   ],
   "context": "q2.mp3"
