@@ -1,0 +1,31 @@
+{
+  "packId": "path_global_beacon",
+  "readme": "This content pack chronicles the expansion of SAIX into 'The Beacon,' a global ideological movement seeking to unite the Global South into a democratic digital alternative to traditional superpowers.",
+  "items": [
+    {
+      "type": "NEWS_ARTICLE",
+      "headline": "The New Delhi Accord: SAIX Becomes the Pulse of the Global South",
+      "body": "In a historic summit today, representatives from India, Brazil, and the SAIX Council formalized the New Delhi Accord, establishing the first truly global, decentralized AI alliance. Bypassing the technological hegemony of the old superpowers, the 'Beacon' initiative will distribute computational governance across three continents. This treaty marks the end of data colonialism, replacing it with a shared digital commons designed to empower the developing world. Analysts suggest this 'Third Way' of technology could permanently shift the world's center of gravity away from Silicon Valley and Beijing.",
+      "source": "Global Horizon News",
+      "date": "2030-01-15",
+      "flavor": "The torch of innovation has been passed from the few to the many."
+    },
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "MEMO: Defining The Beacon Doctrine",
+      "body": "Our mandate has fundamentally evolved. We are no longer merely an infrastructure provider for the European Union; we are the ideological vanguard of a post-superpower world. SAIX is now 'The Beacon.' By integrating the computational heritage and future potential of the Global South, we are creating a democratic alternative to algorithmic silos and surveillance states. We must proceed with both courage and caution. This coalition is grand, but it is also fragile. Our strength lies in our inclusivity, but our risk lies in our reach. If we overextend, the alliance fractures; if we succeed, we rewrite history itself.",
+      "source": "Office of the SAIX High Commissioner",
+      "date": "2029-11-04",
+      "flavor": "Sovereignty is too small a word for the future we are building."
+    },
+    {
+      "type": "SOCIAL_MEDIA_THREAD",
+      "headline": "#GlobalBeacon: The World Responds to the New Alliance",
+      "body": "@Aarav_Dev: Finally, India isn't just a market for someone else's tech. We are the backbone of the Beacon now. #SAIX #DigitalSovereignty // @Elena_Rio: Seeing the SAIX nodes light up across Brazil feels like the first time the internet was actually meant for us. No more colonial clouds. // @GlobalThinker: The old empires are calling this 'dangerous overextension.' They're just terrified of a world they can't control. // @FutureFrontier: The Beacon is lit. For the first time, the Global South isn't following a path—we are paving it.",
+      "source": "ChirpSocial Trends",
+      "date": "2030-01-16",
+      "flavor": "The movement has outgrown the machines."
+    }
+  ],
+  "context": "path_global.mp3"
+}
