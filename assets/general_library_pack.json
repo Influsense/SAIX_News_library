@@ -1,0 +1,32 @@
+{
+  "packId": "SAIX-Q-GEN-LIB-2026",
+  "readme": "General documentation covering major geopolitical and technological shifts in 2026, highlighting the divergence of AI sovereignty and the growth of decentralized networks.",
+  "items": [
+    {
+      "type": "NEWS_ARTICLE",
+      "headline": "The Brussels Firewall: EU Finalizes 'Sovereign Core' AI Directive",
+      "body": "The European Commission today ratified the Sovereign Core initiative, a multi-billion euro framework aimed at decoupling European critical infrastructure from Silicon Valley-dependent AI models. The directive mandates that all Tier-1 government services transition to locally hosted, open-weight architectures by 2027. Proponents argue this secures data privacy, while critics warn of a widening technological schism between the Atlantic powers.",
+      "source": "Reuters-Global Tech Watch",
+      "date": "2026-03-14",
+      "flavor": "Autonomy comes at a price, usually measured in gigawatts and latency."
+    },
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "RE: Project Peregrine - Incident Report 404-B",
+      "body": "Security audit confirms unauthorized exfiltration of the 'Atlas' weights from the Lagos R&D node. Preliminary traces suggest a state-sponsored actor utilizing a decentralized mesh-relay to bypass our geofencing. This breach compromises our competitive edge in low-bandwidth inference optimization. Immediate rotation of all neural keys is required. We suspect 'Silk-Road' corporate interests are the primary beneficiaries.",
+      "source": "Lumina Dynamics - Security Division",
+      "date": "2026-07-22",
+      "flavor": "In the new scramble for Africa, the gold is weights, not minerals."
+    },
+    {
+      "type": "SOCIAL_MEDIA_THREAD",
+      "headline": "#MeshNetRevolution: How Kinshasa Bypassed the Blackout",
+      "body": "1/5 The central grid went down, but the city stayed online. 2/5 Using recycled LoRa chips and the new 'Ubuntu-Link' protocol, we've built a decentralized backbone that doesn't care about fiber cuts. 3/5 Sovereign AI isn't just for rich nations; our local nodes are running crop-yield models right now. 4/5 No ISPs, no gatekeepers, just peer-to-peer resilience. 5/5 The digital divide is being bridged from the ground up. #DecentralizedAfrica #AIForAll",
+      "source": "X-Thread by @TechNomad_DRC",
+      "date": "2026-11-05",
+      "flavor": "Power to the nodes."
+    }
+  ],
+  "context": "general_library",
+  "seedUrl": "https://www.esgtoday.com/blackrock-loses-5-9-billion-mandate-from-dutch-pension-fund-over-esg-stance/"
+}
