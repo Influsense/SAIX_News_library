@@ -1,0 +1,31 @@
+{
+  "packId": "path_sovereignty_mp3",
+  "readme": "This pack details the arduous transition of the European digital infrastructure as it decouples from American dependencies to establish a 'Fortress' of digital sovereignty. The content focuses on the rejection of efficiency in favor of absolute independence.",
+  "items": [
+    {
+      "type": "NEWS_ARTICLE",
+      "headline": "European Council Ratifies 'The Fortress' Protocol: Total Decoupling Set for 2030",
+      "body": "In a historic vote, the European Council has finalized the 'Digital Autonomy Act,' a radical policy shift that mandates the replacement of all foreign-owned cloud infrastructure and processing hardware with domestic alternatives. The policy, colloquially known as 'The Fortress,' acknowledges that the transition will result in an immediate 20% increase in operational costs and significant latency issues across the Eurozone. Commissioner Verhoeven stated, 'We are no longer customers of Silicon Valley. We are architects of our own destiny. The era of easy efficiency is over; the era of sovereignty has begun.'",
+      "source": "The Brussels Chronicle",
+      "date": "2029-04-12",
+      "flavor": "Freedom has a price tag, and Europe just received the first bill."
+    },
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "RE: Performance Disparities in Euro-Sil Phase 1 Chips",
+      "body": "To all systems architects: We are aware of the benchmarking reports comparing our first-generation Euro-Sil processors against the latest US-based alternatives. Yes, our clock speeds are lower. Yes, our thermal efficiency is inferior. However, your directives remain unchanged. We will not seek exemptions to utilize foreign silicon. Our objective is not to win a race today, but to own the track tomorrow. You are expected to optimize code for the hardware we have, not the hardware you wish we had. Acceptance of these constraints is mandatory for continued participation in the Sovereignty Project.",
+      "source": "Chief Technical Officer, EU Data Sovereignty Taskforce",
+      "date": "2029-05-15",
+      "flavor": "Iron will, not easy math."
+    },
+    {
+      "type": "INTERCEPTED_COMM",
+      "headline": "Encrypted Signal Fragment: Node 82-Alpha",
+      "body": "The atmosphere here is... heavy. They're actually ripping out the old AWS stacks. My team is struggling with the new local datacenter protocols. It's slower, and honestly, the debugging is a nightmare because we're essentially inventing the stack as we go. But there is a weird sense of pride in the room. Nobody is looking over their shoulder for a remote kill-switch or a foreign policy shift. It's a lonely road, and it’s going to be a long winter, but for the first time, the data stays home.",
+      "source": "Signal Intercept (Private Channel)",
+      "date": "2029-06-01",
+      "flavor": "A lonely road is better than a gold-plated cage."
+    }
+  ],
+  "context": "path_sovereignty.mp3"
+}
