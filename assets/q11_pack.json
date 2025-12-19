@@ -1,30 +1,30 @@
 {
-  "packId": "SAIX-Q11-AdminShift",
-  "readme": "This content pack provides three lore items (News Article, Internal Memo, Intercepted Comm) that establish the political landscape surrounding a new administration in Washington during 'Quarter Eleven'. The items explore the strategic dilemma faced by key players: whether to solidify existing partnerships or exploit the instability to sever ties, all under a pervasive tone of uncertainty and watchfulness.",
+  "packId": "q11-guard-change",
+  "readme": "Quarter Eleven chronicles the transition of power in Washington and the strategic crossroads faced by the SAIX initiative. As the old guard departs, stakeholders must decide whether to entrench themselves within the new regime or sever ties while the political machine is recalibrating.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "Washington's New Guard: Markets Wary as Policy Direction Remains Murky",
-      "body": "Following the recent 'Guard Change' in Washington, capital markets are exhibiting significant caution. Analysts point to the nascent administration's undefined policy stances across key sectors, leading to widespread speculation. Major corporate entities, particularly those with deep-seated federal contracts, are reportedly reassessing their long-term strategic alignments. 'This isn't just a pivot, it's a complete reorientation,' noted financial pundit Dr. Aris Thorne. 'Every major player is holding their breath, waiting for a definitive signal or, perhaps, preparing to move without one.' The lack of clear communication from the new regime continues to fuel anxieties, especially concerning regulatory oversight and federal resource allocation, as Quarter Eleven unfolds.",
-      "source": "The Global Ledger",
-      "date": "2077-10-15",
-      "flavor": "A public-facing analysis reflecting the general unease and speculative atmosphere surrounding the new administration."
+      "headline": "Inauguration Eve: K-Street Braces for 'The Great Recalibration'",
+      "body": "As moving trucks line the streets of Northwest DC, the city remains in a state of breathless suspension. The incoming administration has promised a total audit of 'Deep Tech' initiatives, leaving the SAIX program in a precarious limbo. Analysts suggest that while some legacy contracts are being fast-tracked for signatures tonight, others are being quietly scrubbed from the transition team's briefing books. The silence from the new Chief of Staff's office is deafening, leaving contractors to wonder if they are part of the new world order or the first casualties of its purge.",
+      "source": "The Capital Ledger",
+      "date": "January 19, Quarter 11",
+      "flavor": "The transition is a blank slate, or a guillotine."
     },
     {
       "type": "INTERNAL_MEMO",
-      "headline": "Q11 Strategic Posture: Navigating the Washington Realignment",
-      "body": "TO: Strategic Oversight Committee. FROM: Office of Corporate Resilience. DATE: 2077-10-18. SUBJECT: Q11 Strategic Posture: Navigating the Washington Realignment. As we enter Quarter Eleven, the 'Guard Change' in Washington presents both unprecedented risks and potential opportunities. The new administration's shifting priorities demand immediate and decisive action regarding our federal engagements. The core dilemma remains: should we proactively seek to lock in our current partnership agreements, leveraging any momentary distraction in their transition, or should we instead evaluate opportunities to strategically disengage and pursue entirely new avenues? Analysis indicates that while a rapid consolidation could secure our position, a 'cut-the-cord' strategy might allow for greater agility in a rapidly evolving landscape. All divisions are to submit risk assessment and opportunity reports concerning both pathways by 2077-10-25. Preparedness for either scenario is paramount.",
-      "source": "Corporate Resilience Office, [REDACTED] Corporation",
-      "date": "2077-10-18",
-      "flavor": "An urgent internal directive outlining the strategic choices and their implications for a powerful corporation."
+      "headline": "STRATEGIC ASSESSMENT: DC TRANSITION VULNERABILITIES",
+      "body": "The incoming administration is currently preoccupied with cabinet confirmations and security clearances. This creates a 45-day window of institutional blindness. Option A: We leverage our remaining contacts in the outgoing administration to lock in the 10-year 'Black Box' indemnity clause before midnight. Option B: We initiate the 'Ghost' protocol, scrubbing our metadata from federal servers while the oversight committees are in flux. To stay is to be scrutinized; to leave is to be forgotten. We must choose before the new Secretary is sworn in.",
+      "source": "Office of the Chief Strategist",
+      "date": "January 22, Quarter 11",
+      "flavor": "Hesitation is the only wrong move."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "Feed Delta-7: 'Watchdog' on the Move Post-Shift",
-      "body": "SECURE CHANNEL - ANALYST NOTE: Intercepted from known 'Watchdog' network, low-tier operative chatter. TIME: 2077-10-20, 03:47 GMT. CONTENT: 'Yeah, heard a lot of noise from the [CENSORED] camps. New bosses up in Washington got everyone spooked. Word is, they're either going all in with the big boys, or cutting them loose. Think it's the latter. Too much static, too many new faces. Old ties getting frayed. The 'Watchdog' will need to be ready to pivot. Anyone not tied down will be looking for new feeders, new leverage. Big changes coming, stay sharp. This isn't just a political reshuffle, it's a full system reset. Keep eyes on high-value targets, especially those vulnerable in the flux.' END COMM. ANALYST RPT: Implies significant strategic decisions by major entities in response to the administrative change, seen as an opportunity for opportunistic groups.",
-      "source": "Federal Intelligence Oversight (FIO) - Classified Intercept",
-      "date": "2077-10-20",
-      "flavor": "A cryptic, covert communication from an external observer, hinting at the instability and strategic maneuvering of various factions in Washington."
+      "headline": "RE: The Cord / The Knot",
+      "body": "(Sender 01): They're still arguing over the seating charts at the State Department. The back door is still open. (Sender 02): If we're going to cut the cord, we do it now. Once the new security sweeps start in Q12, we'll be tied to them forever. (Sender 01): Or we sign the deal and become 'too big to fail.' (Sender 02): I'd rather be invisible than essential. Let's see who blinks first.",
+      "source": "Signal-Intercept (Encrypted)",
+      "date": "January 25, Quarter 11",
+      "flavor": "Watching the giants stumble."
     }
   ],
   "context": "q11.mp3"
