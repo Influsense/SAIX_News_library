@@ -1,30 +1,30 @@
 {
-  "packId": "SAIX-Q7-TalentDrain-001",
-  "readme": "This content pack explores the critical period of 'Quarter Seven' for SAIX, focusing on the strategic failure to retain top engineering talent, leading to a significant operational vulnerability. It highlights the aggressive recruitment by competitors, specifically OpenAI and Anthropic, and the resulting disillusionment within the organization. The items collectively paint a picture of a company facing severe consequences for overlooking its 'wetware' in favor of 'hardware'.",
+  "packId": "q7.mp3",
+  "readme": "Quarter Seven marks the point where hardware superiority is rendered moot by human capital flight. The focus on compute over creativity has led to a catastrophic brain drain to US competitors.",
   "items": [
     {
-      "type": "NEWS_ARTICLE",
-      "headline": "AI Talent Exodus: Silicon Valley Giants Poach Top Minds from Global Rivals",
-      "body": "Reports indicate a significant brain drain from leading international AI research firms, with several high-profile engineers migrating to US-based titans like OpenAI and Anthropic. Analysts suggest this 'wetware' offensive is a calculated strategy, diverting focus from hardware advancements. While some companies have invested heavily in infrastructure, the critical human element is proving increasingly vulnerable. 'Without the minds, the most powerful machines are just expensive paperweights,' remarked Dr. Anya Sharma, a senior AI ethicist, highlighting the precarious position of firms unable to match the aggressive recruitment tactics and incentives offered by the American AI juggernauts. This trend is expected to heavily impact Q7 financial and operational reports for affected companies.",
-      "source": "Global Tech Monitor",
-      "date": "2077-10-15",
-      "flavor": "A stark external analysis revealing the strategic miscalculation and the erosion of critical intellectual capital. Highlights the 'wetware' vulnerability."
+      "type": "INTERNAL_MEMO",
+      "headline": "STRATEGIC FAILURE: THE EROSION OF WETWARE",
+      "body": "Management spent the last six months obsessing over GPU allocation and thermal efficiency while our top tier talent was actively being courted in plain sight. This morning, we lost three more lead researchers to OpenAI. We have built the most expensive empty house in the world. Silicon is replaceable; the unique synaptic leaps of our core team are not. We chose to invest in metal instead of people, and now the bill has come due.",
+      "source": "Office of Human Capital Retention",
+      "date": "202X-Q7-01",
+      "flavor": "A thousand servers cannot think for themselves."
     },
     {
-      "type": "INTERNAL_MEMO",
-      "headline": "URGENT: Talent Retention Initiative – Reaffirming Our Core Strength",
-      "body": "To all Department Heads: The recent attrition rates among our Tier-1 and Tier-2 engineering staff are unsustainable and deeply concerning. While we have prided ourselves on our cutting-edge hardware and advanced infrastructure, it has become painfully clear that our most valuable asset walks out the door every evening. Aggressive recruitment from foreign entities, specifically citing lucrative offers from OpenAI and Anthropic, has siphoned off critical 'wetware' that cannot be easily replaced. Effective immediately, all managers are to implement the new 'Project Sentinel' retention protocols. We *must* protect our intellectual core. Failure to do so will render our significant investments in machinery utterly useless. This is not just about salaries; it's about re-engaging our vision and reminding our brightest minds why they joined SAIX. The bill for neglecting our people is coming due, and we cannot afford to pay it.",
-      "source": "CEO Office, SAIX Corporation",
-      "date": "2077-10-20",
-      "flavor": "A desperate internal plea from leadership, acknowledging a massive strategic blunder and the direct threat posed by competitor poaching. Conveys disappointment and urgency."
+      "type": "NEWS_ARTICLE",
+      "headline": "THE SILENT EXODUS: SAN FRANCISCO DRAINS SAIX DRY",
+      "body": "While domestic press releases focused on the launch of the new server farm, a steady stream of elite engineers has been boarding flights to San Francisco. Anthropic and OpenAI have reportedly secured signatures from over 40% of the SAIX 'Core Eleven' team. Analysts suggest that the technical advantage once held by the local initiatives has evaporated overnight, leaving behind massive infrastructure with no one left to navigate the high-level alignment challenges.",
+      "source": "Tech Financial Daily",
+      "date": "202X-Q7-15",
+      "flavor": "The American giants didn't need to sabotage the machines; they just bought the operators."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "RE: Another One Down?",
-      "body": "Jian, just heard about Dr. Anya Sharma. The ethics lead? Seriously? This is getting out of hand. That's three senior engineers this week, not even counting the dozen mid-tiers. They're not just poaching, they're gutting us. Command really thought shiny new server farms would keep the lights on without anyone to program them? Typical. The Americans knew exactly where to hit us. We're bleeding out here. If we lose any more of the quantum team, the whole 'Project Chimera' goes dead. And then what? Machines standing silent. We're already behind schedule for Q7 projections because of this. Disappointed doesn't even begin to cover it.",
-      "source": "Secure Channel, SAIX (User: 'Nomad_7' to 'Oracle_9')",
-      "date": "2077-10-22",
-      "flavor": "A raw, frustrated exchange between two mid-level operatives or engineers within SAIX, confirming the severe impact of talent loss and expressing deep disappointment in leadership's oversight."
+      "headline": "LOG-FRAGMENT: ENCRYPTED TRANSIT #882",
+      "body": "Sender: [REDACTED] | Recipient: [REDACTED] | Message: It is done. Anthropic offered better equity and a vision that isn't just 'maximize compute'. At SAIX, we were just maintenance staff for the clusters. In SF, we are the architects again. I am leaving the keycard on the desk. They won't even notice I'm gone until they try to run the new training set and realize no one knows how the weighting logic actually works.",
+      "source": "Signals Intelligence Division",
+      "date": "202X-Q7-20",
+      "flavor": "The machines are idle, and the chairs are cold."
     }
   ],
   "context": "q7.mp3"
