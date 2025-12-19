@@ -1,0 +1,31 @@
+{
+  "packId": "saix-path-commercial-001",
+  "readme": "This content pack explores the transition from ideological digital sovereignty to cold, market-driven pragmatism within the SAIX Quarter, focusing on the inevitable friction between shareholders and purists.",
+  "items": [
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "Re: Procurement Policy Realignment",
+      "body": "Starting next quarter, we are abandoning the 'Domestic Only' hardware mandate. The performance lag on local rigs is costing us 12ms per transaction. In high-frequency environments, that isn't just a delay; it's a death sentence. We are signing the supply contract with Omni-Silicon effective immediately. I am aware of the political optics regarding their central-state ties. However, ideals do not pay our server hosting fees. If the 'Clean-Pipe' advocates want to complain, they can find a way to make local silicon run at 5GHz without melting. Until then, we buy what works.",
+      "source": "Office of the CTO, V-Tech Systems",
+      "date": "2049-05-12",
+      "flavor": "Ethics are a luxury of the wealthy; efficiency is a requirement of the surviving."
+    },
+    {
+      "type": "NEWS_ARTICLE",
+      "headline": "Astra-Neural Stocks Hit All-Time High Amid 'Sovereignty' Backlash",
+      "body": "Astra-Neural (ASTN) shares surged 22% this morning following the announcement of their 'Total Market' integration strategy. The firm has opted to shutter its internal development of 'Sovereign-AI' in favor of a licensing deal with global giants. While the Digital Autonomy League has labeled CEO Elena Vance a 'traitor to the national infrastructure,' institutional investors are calling the move a masterstroke. 'Vance is a realist,' said one analyst. 'She realized that fighting the global giants was a vanity project. By partnering, she slashed R&D costs by 60% and secured the most advanced weights on the market.'",
+      "source": "The Financial Observer",
+      "date": "2049-06-01",
+      "flavor": "A flag on a box doesn't improve its floating-point operations."
+    },
+    {
+      "type": "INTERCEPTED_COMM",
+      "headline": "RE: The Piper's Fee",
+      "body": "They accepted the terms. Every single one. They're so desperate for the revenue boost that they didn't even push back on the data-mirroring clauses. It's the same story every time: they start out talking about 'independence' and 'security,' but once the first quarterly report shows red, they come crawling to the giants. They think they're buying hardware; they don't realize they're selling the keys to the kingdom. If they ever try to pivot back to their 'purist' roots, we'll just cut their API access and watch their entire stack collapse in an hour.",
+      "source": "Encrypted Channel (Global-Link Logistics)",
+      "date": "2049-06-15",
+      "flavor": "He who pays the piper calls the tune, and the tune is 'Obedience'."
+    }
+  ],
+  "context": "path_commercial.mp3"
+}
