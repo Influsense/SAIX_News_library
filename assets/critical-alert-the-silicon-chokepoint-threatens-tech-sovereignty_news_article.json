@@ -1,0 +1,8 @@
+{
+  "type": "NEWS_ARTICLE",
+  "headline": "CRITICAL ALERT: THE SILICON CHOKEPOINT THREATENS TECH SOVEREIGNTY",
+  "body": "As the second quarter begins, a deepening crisis in the silicon supply chain has reached a breaking point. Data centers worldwide are starving for computational power, and the coveted NVIDIA H200 chips remain trapped behind a wall of increasingly complex export licenses. Corporations are now faced with a brutal ultimatum: stockpile at any cost and submit to tightening regulatory control, or pivot to emerging European alternatives. While these European chips offer a path away from trade-war dependencies, their current performance metrics are significantly slower, creating a dangerous lag in AI development. The window to secure infrastructure is closing fast, and the wrong choice could mean obsolescence.",
+  "source": "Global Tech Monitor",
+  "date": "2024-04-10",
+  "flavor": "Urgent / Economic Warning"
+}
