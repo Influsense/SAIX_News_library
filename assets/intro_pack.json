@@ -1,30 +1,30 @@
 {
-  "packId": "saix-quarter-intro",
-  "readme": "Introductory content pack for the SAIX initiative, detailing the geopolitical shifts and the initial briefing for the new Director in the year 2025.",
+  "packId": "SAIX-INTRO-MP3",
+  "readme": "Introductory content pack for the SAIX initiative, establishing the geopolitical landscape and the Director's initial challenges in 2025.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "The Great Decoupling: Last Trans-Atlantic Node Goes Dark",
-      "body": "As of 04:00 GMT, the final legacy handshake between European and North American backbone servers failed to initiate. Under the 'Digital Sovereignty Act' passed in Washington and the 'Firewall Harmonization' in Beijing, the global internet has effectively ceased to exist. Europe now sits on a digital island, reliant on crumbling legacy infrastructure that was never meant to function in isolation. Financial markets have frozen, and the scramble for domestic silicon has begun.",
-      "source": "Global Reuters-Associated Press Syndicate",
-      "date": "January 12, 2025",
-      "flavor": "The silent clicking of millions of disconnected routers was the only sound of the new world order."
+      "headline": "The Great Decoupling: Brussels Faces the Void",
+      "body": "As the clock struck midnight on January 1st, the final data packet exchange between the US-led Clean Path and China's Great Firewall ceased. Europe now finds itself adrift in a digital no-man's land. With proprietary silicon and cloud stacks locked behind nationalistic borders, the newly formed Sovereign AI and Infrastructure eXchange (SAIX) represents the continent's last gamble for technological relevance. Experts warn that without a unified backbone, the European single market will collapse into a series of disconnected analog islands.",
+      "source": "Reuters Digital Archive",
+      "date": "2025-01-02",
+      "flavor": "The silence from the trans-Atlantic cables is deafening."
     },
     {
       "type": "INTERNAL_MEMO",
-      "headline": "Appointment of Director and Activation of Project SAIX",
-      "body": "You are hereby appointed Director of the Strategic Autonomy Initiative X (SAIX). Your objective is absolute: decouple European critical infrastructure from foreign dependency within sixty months. The initial treasury allocation is limited to emergency reserves. You will operate under full executive privilege but face total accountability. The eyes of the Union are on you. Failure is not a budgetary option; it is an existential threat to the continent.",
-      "source": "European Commission - DG Connect (Classified)",
-      "date": "January 14, 2025",
-      "flavor": "The ink on your commission is still wet; the silicon in our servers is already aging."
+      "headline": "Directive 001: Operational Commencement",
+      "body": "To the Director: Your appointment comes at a moment of existential crisis. The budget allocated by the Council is final; there will be no supplementary funds. You are tasked with consolidating fragmented regional data centers into a unified sovereign mesh. Expect resistance from member states wary of centralized control. You must navigate the technical debt of two decades while fending off industrial espionage. The five-year countdown to total digital autonomy begins now. We await your first deployment plan.",
+      "source": "European Commission / Secretariat-General",
+      "date": "2025-01-05",
+      "flavor": "Power is not given; it is built in the server room."
     },
     {
-      "type": "INTERCEPTED_COMM",
-      "headline": "Intercepted Packet: Signal Decay Log",
-      "body": "NODE_44-BRAVO: Timed out. NODE_45-ALPHA: Timed out. LATENCY_REQUISITION: 9999ms. We are getting nothing from the West. The US firewall is hardware-locked at the submarine cable level. China's new quantum-shield is opaque. We are shouting into a void. Director, if you can hear this, the local grid is falling out of sync. We need the SAIX backbone online yesterday or the lights go out in Berlin.",
-      "source": "Signal Intelligence Unit - High-Frequency Monitoring",
-      "date": "January 15, 2025",
-      "flavor": "A continent-sized silence is louder than any explosion."
+      "type": "SOCIAL_MEDIA_THREAD",
+      "headline": "#SAIX or #SILENCE? The Great Infrastructure Debate",
+      "body": "Thread by @TechNomad_EU: 1/10 We're officially cut off. No more AWS, no more Alibaba Cloud. The government says SAIX is the answer, but can they really build a decade's worth of infra in five years? 2/10 I'm seeing local pings spike. Our current hardware is literal junk compared to the US N-series chips. 3/10 If the Director fails, we're back to analog. 4/10 Does anyone even know who is running this? #DigitalSovereignty #SAIX #2025",
+      "source": "X (Global Instance Archive)",
+      "date": "2025-01-10",
+      "flavor": "Public sentiment is a volatile fuel."
     }
   ],
   "context": "intro.mp3"
