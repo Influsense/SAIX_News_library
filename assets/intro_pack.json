@@ -1,30 +1,30 @@
 {
-  "packId": "pack_SAIX_genesis_2025_01",
-  "readme": "This content pack serves as the immediate narrative kick-off for the player as Director of SAIX. It establishes the core geopolitical landscape (US/China digital walls, isolated Europe) and the immense pressure on SAIX. The items are designed to be presented early in the game, perhaps after the initial briefing. The News Article provides the official, hopeful public face of SAIX's creation. The Internal Memo immediately contradicts this with the grim reality of budget constraints and operational challenges. Finally, the Intercepted Comm reveals the external, cynical view from a rival power, highlighting Europe's perceived weakness and the constant global scrutiny. Together, they create a sense of urgency, vulnerability, and the monumental task ahead for the player, immediately immersing them in the high-stakes environment.",
+  "packId": "saix-quarter-intro",
+  "readme": "Introductory content pack for the SAIX initiative, detailing the geopolitical shifts and the initial briefing for the new Director in the year 2025.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "SAIX Inaugurated: Europe's Bold Leap Towards Digital Sovereignty",
-      "body": "STRASBOURG – In a landmark ceremony today, the European Union officially inaugurated the Strategic Artificial Intelligence Exchange (SAIX), a bold initiative aimed at forging an independent digital infrastructure for the continent. European Commission President, Amelie Dubois, lauded the project as 'a beacon of collaborative innovation in an increasingly fragmented digital world.' With a five-year mandate and a dedicated, albeit ambitious, budget, SAIX is tasked with building a resilient, autonomous network to safeguard Europe's data and ensure its digital future. Experts agree that while the challenge is significant, the collective will of the EU member states provides a strong foundation for success, positioning Europe as a bastion of open and secure digital exchange.",
-      "source": "EuroNet News",
-      "date": "2025-01-15",
-      "flavor": "Publicly broadcasted on all major European news channels, signaling a new era of digital independence."
+      "headline": "The Great Decoupling: Last Trans-Atlantic Node Goes Dark",
+      "body": "As of 04:00 GMT, the final legacy handshake between European and North American backbone servers failed to initiate. Under the 'Digital Sovereignty Act' passed in Washington and the 'Firewall Harmonization' in Beijing, the global internet has effectively ceased to exist. Europe now sits on a digital island, reliant on crumbling legacy infrastructure that was never meant to function in isolation. Financial markets have frozen, and the scramble for domestic silicon has begun.",
+      "source": "Global Reuters-Associated Press Syndicate",
+      "date": "January 12, 2025",
+      "flavor": "The silent clicking of millions of disconnected routers was the only sound of the new world order."
     },
     {
       "type": "INTERNAL_MEMO",
-      "headline": "URGENT: Q1 Budget Review & Infrastructure Deadlines - CRITICAL CONCERNS",
-      "body": "TO: Director [Player's Name], SAIX Directorate FROM: Elara Vance, Head of Operations DATE: 2025-03-22 SUBJECT: Critical Review of Q1 Progress & Financial Allocation. Director, following the Q1 budget review, I must convey significant concerns regarding our current trajectory. The allocated funds are proving insufficient against the escalating costs of next-gen server procurement and the unforeseen complexity of securing crucial rare earth elements for our planned quantum backbone. Our 5-year timeline is already under severe stress; current projections indicate delays of up to 18 months if we do not receive immediate supplemental funding or a radical restructuring of our Phase 1 objectives. Morale among our core engineering teams is also dipping due to the relentless pressure. We cannot afford public failure, especially with the 'eyes of the world' observing our every move. I require your immediate attention on this matter.",
-      "source": "SAIX Internal Communications",
-      "date": "2025-03-22",
-      "flavor": "Circulated to senior SAIX leadership, highlighting the immediate, pressing internal challenges."
+      "headline": "Appointment of Director and Activation of Project SAIX",
+      "body": "You are hereby appointed Director of the Strategic Autonomy Initiative X (SAIX). Your objective is absolute: decouple European critical infrastructure from foreign dependency within sixty months. The initial treasury allocation is limited to emergency reserves. You will operate under full executive privilege but face total accountability. The eyes of the Union are on you. Failure is not a budgetary option; it is an existential threat to the continent.",
+      "source": "European Commission - DG Connect (Classified)",
+      "date": "January 14, 2025",
+      "flavor": "The ink on your commission is still wet; the silicon in our servers is already aging."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "SIGNAL INTERCEPT: Re: EU-SAIX Project Status Update (Classified CHN-MILCOM)",
-      "body": "TRANSMITTER: Agent 'Dragonfly' RECEIVER: Section Chief 'Shadow' PRIORITY: HIGH. Dragonfly: 'The EU's SAIX initiative. Any new intel?' Shadow: 'Minimal. Their public announcements are all bravado. Our monitoring suggests significant internal friction, particularly on procurement and budget. They underestimated the cost of true digital independence. It's a house of cards built on wishful thinking.' Dragonfly: 'So, no threat to our regional dominance?' Shadow: 'Not in this decade. They're years behind, scrambling to play catch-up. Keep passive surveillance active, but redirect resources to more pertinent regional threats. Europe's 'digital wall' will be more of a sieve than a fortress at this rate.'",
-      "source": "Intercepted CHN-MILCOM Network",
-      "date": "2025-04-01",
-      "flavor": "Decrypted communication from a rival nation's intelligence network, revealing their skeptical, almost dismissive, view of SAIX's prospects."
+      "headline": "Intercepted Packet: Signal Decay Log",
+      "body": "NODE_44-BRAVO: Timed out. NODE_45-ALPHA: Timed out. LATENCY_REQUISITION: 9999ms. We are getting nothing from the West. The US firewall is hardware-locked at the submarine cable level. China's new quantum-shield is opaque. We are shouting into a void. Director, if you can hear this, the local grid is falling out of sync. We need the SAIX backbone online yesterday or the lights go out in Berlin.",
+      "source": "Signal Intelligence Unit - High-Frequency Monitoring",
+      "date": "January 15, 2025",
+      "flavor": "A continent-sized silence is louder than any explosion."
     }
   ],
   "context": "intro.mp3"
