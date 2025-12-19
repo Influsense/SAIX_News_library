@@ -1,30 +1,30 @@
 {
-  "packId": "SAIX-Q20-Verdict",
-  "readme": "This content pack provides three lore items (News Article, Internal Memo, Intercepted Comm) that expand on the 'Quarter Twenty: The Verdict' narrative beat, emphasizing the five-year project's culmination and the judgment it faces. The tone is final and judgmental, reflecting on whether the grand undertaking was a success, a failure, or something more ambiguous.",
+  "packId": "q20.mp3",
+  "readme": "The final quarter marks the culmination of the SAIX project. This pack captures the atmosphere of the final audit, reflecting on five years of construction and the ultimate judgment of history.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "End of an Era: Quintus Initiative Faces Final Public Review After Five Years",
-      "body": "After twenty quarters of unprecedented development, the controversial 'Quintus Initiative' officially concludes its operational phase. Launched with the promise of 'building a new future from the ground up,' the five-year project, spearheaded by the enigmatic SAIX corporation, has faced both lauded praise for its technological advancements and fierce criticism over its ecological impact and societal restructuring efforts. A public accountability summit is slated for next cycle, where its legacy will be scrutinized. Will it be hailed as a marvel of engineering, a unifying force, or ultimately, a colossal waste of resources? The final ledger is about to be tallied, and history awaits its verdict.",
-      "source": "The Global Chronicle",
-      "date": "2775-10-15",
-      "flavor": "Public opinion hangs in the balance as the curtain falls on SAIX's ambitious, and often divisive, mega-project. Anticipation builds for the critical assessment."
+      "headline": "The Great Audit: Five Years of SAIX Under the Lens",
+      "body": "Today marks the twentieth quarter since the SAIX initiative launched. What began as a bold promise of infrastructure evolution has reached its terminal point. Analysts are divided: did we build a sanctuary or a prison? As the final ledgers close, the cost of innovation is being weighed against the debris of the old world. The project has reached its inevitable conclusion, leaving behind a legacy that is as imposing as it is controversial.",
+      "source": "Neo-Financial Times",
+      "date": "Q20 Terminal Day",
+      "flavor": "The ink is dry, but the stains remain."
     },
     {
       "type": "INTERNAL_MEMO",
-      "headline": "Directive 7-G: Quintus Initiative Final Review - 'The Reckoning'",
-      "body": "To All Section Heads and Project Leads, As Quarter Twenty draws to a close, so too does the operational phase of the Quintus Initiative. Effective immediately, all personnel are to ensure comprehensive data submission and readiness for the upcoming Final Review. The Board expects absolute transparency and meticulous detail in all reports. We stand at the precipice of judgment; what we have built over the last five years will now be weighed against its initial promise. Remember, our legacy is not just in the structures we erected, but in the future we shaped. The ledger must reflect not just our efforts, but our success. Prepare for The Reckoning.",
-      "source": "SAIX Corporate Oversight - Director Elias Thorne",
-      "date": "2775-10-10",
-      "flavor": "Urgent internal communication emphasizing the critical nature of the final project assessment and the high stakes involved for all personnel. The tone is demanding and somber."
+      "headline": "MEMO: Closure of the Ledger",
+      "body": "Five years. Twenty quarters. We have reached the threshold. You were told you were building a bridge to the future. Now, as the lights dim, we see what has truly been constructed. History does not care about your intentions, only the architecture left behind. Whether this stands as a fortress of progress or a monument to folly is no longer in your hands. Pack your belongings; the verdict has been rendered.",
+      "source": "SAIX Executive Board",
+      "date": "Q20 Final Hour",
+      "flavor": "The architect rarely lives in the house they build."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "RE: Q20 - 'Fortress or Folly?'",
-      "body": "RX: ...heard Thorne's memo. 'The Reckoning,' indeed. They'll spin it, of course. NX: Spin what? We both know what this *really* was. Not the 'bridge' they promised. RX: A fortress, they called it. A new paradigm. Built something from nothing. NX: Or a gilded cage. You saw the data, the 'connections' were always superficial. Just... isolated pockets. RX: And now the 'final entry.' I wonder whose hand will write 'folly' in the margins. Probably ours.",
-      "source": "Encrypted Channel 77-Delta (Identities Unknown)",
-      "date": "2775-10-12",
-      "flavor": "A terse, private exchange between two disillusioned individuals, hinting at the true, perhaps darker, nature of the 'Quintus Initiative' and their cynical outlook on its final judgment."
+      "headline": "COMM: RE: Project Folly?",
+      "body": "Subject: Legacy Check. Data suggests the SAIX structure is holding, but for whom? They think they built a fortress. We see a tomb. The ledger is finalized and the numbers do not lie. We pull the plug at midnight. Let the historians argue over the ruins; our work here is finished. The transition to the post-SAIX era begins now.",
+      "source": "Deep-State Auditor [ENCRYPTED]",
+      "date": "Q20 + 1hr",
+      "flavor": "Silence is the loudest judgment."
     }
   ],
   "context": "q20.mp3"
