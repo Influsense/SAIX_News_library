@@ -1,30 +1,30 @@
 {
-  "packId": "FRACTURE_Q19_CRISIS_PACK",
-  "readme": "This content pack provides three distinct lore items designed to deepen the narrative around the 'Quarter Nineteen Fracture' event. It highlights the political desperation and high stakes involved in the potential secession of a major member state, Veridia, from the Coalition.",
+  "packId": "q19-the-fracture",
+  "readme": "This content pack covers the critical period of Quarter 19, focusing on the potential secession of Veloria and the resulting political instability within the coalition.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "Veridian Ultimatums Threaten Coalition's Century of Unity: Markets Brace for Impact",
-      "body": "The looming threat of Veridia's withdrawal from the Global Coalition has sent shockwaves across planetary exchanges, with analysts predicting unprecedented economic instability should the secession proceed. Veridian representatives, citing 'unsustainable costs' and 'eroded national sovereignty,' delivered a series of non-negotiable demands to the Coalition Council this week. The Council faces an impossible choice: concede to terms that redefine the very foundation of its charter, or risk the immediate collapse of the alliance built over the last hundred years. Whispers from the Inner Circle suggest this 'Quarter Nineteen' crisis is the most dire challenge to global governance in recent memory.",
-      "source": "Galactic Times",
-      "date": "2142-07-15",
-      "flavor": "Public fear and economic uncertainty are palpable as the Coalition's future hangs in the balance."
+      "headline": "The Velorian Ultimatum: Coalition Teeters on the Brink of Dissolution",
+      "body": "In a televised address that has sent shockwaves through the unified territories, Velorian Minister Aris Thorne officially signaled the state's intent to trigger the exit clause of the SAIX Charter. Thorne cited the 'insupportable financial burden' of the centralized defense fund and argued that Velorian sovereignty has become a 'theoretical ghost' under current coalition mandates. Global markets have plummeted 14% in overnight trading as investors anticipate a total systemic collapse of the regional trade union should the withdrawal proceed.",
+      "source": "The Global Oversight Mirror",
+      "date": "2124-03-12",
+      "flavor": "The ink on the treaty isn't even dry, yet the paper is already burning."
     },
     {
       "type": "INTERNAL_MEMO",
-      "headline": "URGENT: Strategic Assessment - Veridian Withdrawal Contingency",
-      "body": "TO: Coalition High Command FROM: Strategic Operations Division DATE: 2142-07-16 SUBJECT: URGENT: Strategic Assessment - Veridian Withdrawal Contingency CLASSIFICATION: Top Priority - Eyes Only MEMO: The current Veridian posture remains unyielding. Their latest 'Final Offer' reiterates demands for full fiscal autonomy and unilateral veto power over regional Coalition directives, fundamentally undermining the core tenets of our unified command structure. Analysis indicates that conceding to these demands would create an immediate precedent, inviting similar 'sovereignty' challenges from other key member states and ultimately rendering the Coalition a theoretical entity rather than a functional governing body. Conversely, calling their bluff carries an 85% probability of Veridian secession, triggering a cascading collapse of economic and defense treaties. Resources assigned to 'Operation Safeguard' are to be placed on immediate standby. The political cost of either path is catastrophic; prepare for Quarter Nineteen's fallout.",
-      "source": "Coalition Strategic Operations Division",
-      "date": "2142-07-16",
-      "flavor": "A grim internal assessment highlights the no-win scenario facing Coalition leadership."
+      "headline": "STRAT-COM SECURE: Scenario Analysis for Velorian Departure",
+      "body": "If Veloria withdraws, our logistics network loses forty percent of its deep-water port capacity and the integrated energy grid faces immediate failure. Current strategic options remain limited. Option A: Concede to Velorian demands for full fiscal autonomy, which effectively dissolves the coalition's central authority. Option B: Call the bluff and threaten total trade embargoes. However, if Thorne is not bluffing, the Quarter 19 defense project is dead on arrival. The Council is paralyzed by the prospect of choosing between a slow poison and a quick blade.",
+      "source": "Office of the High Commissioner",
+      "date": "2124-03-14",
+      "flavor": "Desperation is the only thing we have in abundance right now."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "RE: URGENT - Phase Delta Activation Confirmed",
-      "body": "FROM: VERIDIA_MINISTRY_OF_DEFENSE.SEC.COMM TO: VERIDIA_FIRST_MARSHAL.PERSONAL.CHANNEL DATE: 2142-07-17 SUBJECT: RE: URGENT - Phase Delta Activation Confirmed MESSAGE: 'First Marshal, confirmation received from Premier Thorne. All Phase Delta protocols initiated. Withdrawal sequence on schedule for 0700 standard, unless *explicit* and *total* capitulation is received. Thorne's exact words were: 'They have bled us dry and shackled our spirit for too long. No more theoretical sovereignty. The cost is too high. Our people demand action.' We proceed as planned. Expect immediate Coalition counter-moves. Readiness Level Alpha. End transmission.'",
-      "source": "Coalition Intelligence Directorate (COALINT)",
-      "date": "2142-07-17",
-      "flavor": "Raw, urgent intelligence confirming Veridia's resolve and the impending deadline for their withdrawal."
+      "headline": "UNENCRYPTED FRAGMENT: Thorne-Vance Private Channel",
+      "body": "Thorne: They are terrified, Vance. The High Commissioner looked like he had seen a ghost during the emergency summit. Vance: If we push too hard, they might actually cut us off and let the whole thing burn. Thorne: They can not do that. Without our manufacturing hubs, their 'New World Order' is a clubhouse without a roof. We keep demanding the impossible until they give us the essential. If they want a union, they will pay for the privilege of our presence.",
+      "source": "Signal Intelligence Node 09",
+      "date": "2124-03-15",
+      "flavor": "Sovereignty is just the word they use to hide the price tag."
     }
   ],
   "context": "q19.mp3"
