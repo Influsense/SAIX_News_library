@@ -1,30 +1,30 @@
 {
-  "packId": "SAIX-Q17-LorePack-001",
-  "readme": "This content pack provides three distinct lore items – a news article, an internal memo, and an intercepted communication – to establish the grave and final geopolitical landscape of Quarter Seventeen, where global neutrality is no longer an option and major powers demand alignment.",
+  "packId": "Q17-THE-LINES",
+  "readme": "Content pack covering the geopolitical bifurcation of Quarter Seventeen. Focuses on the erosion of neutrality and the finality of the US-China rift.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "Global Stalemate Deepens: US and China Trade Ultimata, Neutrality Crumbles",
-      "body": "Quarter Seventeen marks a pivotal and ominous turning point in global geopolitics. Following a series of escalating diplomatic incidents and unprecedented economic sanctions, the United States and the People's Republic of China have effectively frozen all major bilateral relations. Analysts worldwide point to the strategic decoupling as an irreversible shift, forcing nations to declare allegiances. Washington demands unequivocal alignment from its allies, threatening severe repercussions for any perceived deviation. Meanwhile, Beijing has opened its coffers, offering lucrative trade agreements and infrastructure investments to nations willing to operate within its economic sphere. The once-tenable concept of non-alignment has evaporated, leaving smaller powers grappling with impossible choices. European leadership has convened emergency summits, demanding clarity and a de-escalation path, but thus far, their pleas have gone unanswered.",
-      "source": "Global Nexus Post",
-      "date": "2077-10-26",
-      "flavor": "The thin veneer of international cooperation has shattered, revealing the stark, adversarial foundations beneath. The world watches, holding its breath."
-    },
-    {
-      "type": "INTERNAL_MEMO",
-      "headline": "Directive 00-7: Strategic Realignment in Response to Geopolitical Reconfiguration",
-      "body": "To: All Executive Leadership and Regional Directors. Subject: Immediate Strategic Realignment. Effective immediately, all corporate operations and investment portfolios must be reviewed and adjusted to reflect the new global reality. The prolonged and escalating confrontation between the United States and the People's Republic of China has eliminated any viable path for institutional neutrality. Corporate divisions are no longer permitted to maintain simultaneous, significant ties with both spheres of influence without explicit, high-level approval. North American and European divisions are to prioritize alignment with Quadrant A (US-aligned territories) directives and capital flows. Asian and African divisions are to assess opportunities within Quadrant B (China-aligned territories), ensuring compliance with new regulatory frameworks and investment incentives. Detailed operational guidelines will follow within 24 standard hours. This is not a recommendation; it is an imperative for survival in Quarter Seventeen.",
-      "source": "OMEGA-CORP - CEO's Office",
-      "date": "2077-10-27",
-      "flavor": "The corporate world, ever pragmatic, is the first to redraw its own borders in the face of an existential threat. Adapt or perish."
+      "headline": "THE SILENT PACIFIC: BEIJING-WASHINGTON HOTLINE SEVERED",
+      "body": "For the first time since the mid-century, the last functional diplomatic link between the White House and Zhongnanhai has been deactivated. Global shipping lanes are now officially divided into 'Trust Zones,' with any vessel crossing the invisible line subject to immediate seizure. The world is no longer one market; it is two fortresses. The Great Decoupling is complete.",
+      "source": "Global Geopolitics Daily",
+      "date": "20XX-Q17-04",
+      "flavor": "The age of the middleman is dead."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "Priority Intercept: 'The Line is Drawn - No Turning Back'",
-      "body": "COMM INTERCEPT 2077.10.28-0437GMT FROM: [REDACTED_NATO_OFFICIAL] TO: [REDACTED_EU_PARLIAMENTARIAN] - '...It's worse than the projections. Washington's moved beyond 'suggestions' – they're issuing outright ultimatums now. Beijing's play for the resource-rich territories is gaining traction, too. We had a emergency session this morning, practically shouting over each other. The old alliances are fracturing under the strain. There's no middle ground left, not for anyone. Our position, demanding answers, it's falling on deaf ears. They're not listening to reason; they're just drawing lines in the sand, and we're standing right in the middle of it. Quarter Seventeen isn't just a financial marker anymore, is it? It's the point of no return.'",
-      "source": "CLASSIFIED INTERCEPT - EUCOM Intelligence Division",
-      "date": "2077-10-28",
-      "flavor": "A whispered confession, caught in the digital ether, confirms the fears of a world caught between giants."
+      "headline": "OPERATIONAL ORDER 77-B: THE LOYALTY PROTOCOL",
+      "body": "To all Tier-1 Corporate Partners: Neutrality is now officially considered a hostile act. Beijing’s 'Incentive Capital' is classified as contaminated currency under the New Alignment Act. You have 72 hours to divest all Eastern assets or face total exclusion from the Dollar-based financial grid. Choose your side. There will not be a second request.",
+      "source": "Leaked US State Dept Transmission",
+      "date": "20XX-Q17-12",
+      "flavor": "The ultimatum was never a suggestion."
+    },
+    {
+      "type": "INTERNAL_MEMO",
+      "headline": "RE: THE BRUSSELS INQUIRY - TOTAL SYSTEM COLLAPSE",
+      "body": "The Commission is paralyzed. We are being crushed between the anvil of American sanctions and the hammer of Chinese investment withdrawal. Our infrastructure is powered by one side and funded by the other. We demand immediate answers from the G2. If a third path is not established by the end of the quarter, the Union will simply cease to function as a coherent entity.",
+      "source": "EU Security Council - Restricted Access",
+      "date": "20XX-Q17-21",
+      "flavor": "In the shadow of giants, the small are merely dust."
     }
   ],
   "context": "q17.mp3"
