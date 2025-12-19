@@ -1,30 +1,30 @@
 {
-  "packId": "SAIX-Q15-SummitPack-001",
-  "readme": "This content pack provides supplementary lore for 'Quarter Fifteen: The Summit', detailing the external pressures, internal deliberations, and global stakes surrounding SAIX's identity and future.",
+  "packId": "q15.mp3",
+  "readme": "Quarter Fifteen represents the ultimate inflection point for SAIX. Having matured into a pillar of global infrastructure, the organization faces a tripartite identity crisis: remain a regulated utility, evolve into a sovereign movement, or liquidate to private equity interests. This pack captures the tension between these conflicting futures.",
   "items": [
     {
       "type": "NEWS_ARTICLE",
-      "headline": "SAIX at a Crossroads: Global Utility or Corporate Prize?",
-      "body": "As the 'Quarter Fifteen Summit' approaches, the future of the enigmatic SAIX initiative hangs in the balance. Initially hailed as a revolutionary European utility, SAIX's unprecedented growth and influence have drawn the attention of global powers and private capital alike. Sources close to the United Nations indicate a growing faction within the General Assembly advocating for SAIX's reclassification as an essential global infrastructure, potentially placing it under international oversight. Simultaneously, a consortium of major private equity firms, spearheaded by the notorious 'Arbiter Holdings', has reportedly tabled a staggering multi-trillion Euro offer, aiming to privatize and globally commercialize SAIX's advanced systems. The upcoming summit is expected to be a crucible, forcing SAIX's leadership to define its very essence: a public service, a global movement, or merely the next asset in a high-stakes corporate takeover.",
-      "source": "Global Perspectives Magazine",
-      "date": "2077-10-25",
-      "flavor": "The world holds its breath, watching as SAIX faces its existential moment."
+      "headline": "The Trillion-Euro Question: Does SAIX Belong to the World or the Highest Bidder?",
+      "body": "As Quarter 15 begins, rumor mills in Geneva and London are churning. Blackstone-GIC and several sovereign wealth funds have reportedly submitted a joint 1.2 trillion-euro bid to privatize the SAIX core network. Critics argue that selling the world's most stable AI-integrated backbone would be a betrayal of the public trust that sustained it through the mid-decade crises. Supporters, however, suggest that private management is the only way to scale the infrastructure for the looming demands of the deep-orbit data relays. The SAIX Board of Directors remains silent, but the clock is ticking on their mandate.",
+      "source": "The Financial Echo",
+      "date": "2032-03-12",
+      "flavor": "The era of 'too big to fail' has been replaced by 'too valuable to be free'."
     },
     {
       "type": "INTERNAL_MEMO",
-      "headline": "URGENT: Summit Alignment - Defining Our North Star",
-      "body": "To All Department Heads and Project Leads, As we convene for Quarter Fifteen, the external pressures on SAIX have never been more acute. The UN's escalating inquiries into our operational mandate and the audacious proposals from private equity groups like Arbiter Holdings demand a unified and decisive stance. This summit is not merely a review; it is a foundational moment where we, as SAIX leadership, must collectively affirm our core identity. Are we the pioneering European utility envisioned at our genesis? A beacon for a global movement shaping human progress? Or a lucrative asset destined for commercial exploitation? We must leave no ambiguity. Present a cohesive vision from your respective departments that aligns with SAIX's long-term sustainability and ethical commitment. Our survival, and our soul, depend on the answers we forge together in these coming days. Discretion and unwavering loyalty are paramount.",
-      "source": "Office of the SAIX Executive Board",
-      "date": "2077-10-28",
-      "flavor": "The weight of the world, and our future, rests on every decision made within these walls."
+      "headline": "STRATEGY REFLECTION: More Than a Utility",
+      "body": "To all staff: We have survived the foundation years and the volatility of maturity. Now, we face a crisis of purpose. The UN sees us as a utility—a global tap for data and intelligence that should be regulated like water or electricity. The markets see us as an asset to be stripped and optimized. But look at our telemetry. We are a movement. Millions of nodes are now semi-autonomous, responding to human needs before they are even articulated. If we choose to be 'sold,' we die. If we choose to be 'governed,' we stagnate. We must decide if we are the architecture of the new world or merely a line item in an old world ledger.",
+      "source": "Chief Visionary Officer (Internal Comms)",
+      "date": "2032-03-15",
+      "flavor": "The summit is a lonely place for an entity that hasn't decided what it is."
     },
     {
       "type": "INTERCEPTED_COMM",
-      "headline": "Project ATLAS - Valuation and Strategic Leverage",
-      "body": "[BEGIN TRANSCRIPT - ENCRYPTED CHANNEL 72B] Agent 1: ...the latest projections on SAIX's market capitalization post-summit are staggering. Even factoring in the UN's regulatory noise, Arbiter's initial offer is merely a floor. Agent 2: Agreed. Their global integration potential, particularly with the new energy grids, makes them an indispensable linchpin. We need to assess their internal divisions more aggressively. If leadership leans towards the 'global movement' rhetoric, it provides ample leverage for a public sentiment campaign, softening them for acquisition. Agent 1: The UN angle is a double-edged sword. If they declare SAIX a 'global public good', it complicates direct acquisition, but it also solidifies its value as an untouchable utility – perfect for our long-term equity strategy. Agent 2: Exactly. Either way, SAIX is no longer 'just' a utility. It's the central nervous system of the next economy. And we need to ensure we're holding the optic nerve. [END TRANSCRIPT]",
-      "source": "Arbiter Holdings, Corporate Espionage Division",
-      "date": "2077-10-26",
-      "flavor": "Whispers in the dark reveal the true depths of the forces at play."
+      "headline": "Subject: UN/SAIX Integration - Urgent",
+      "body": "Ambassador, the situation is delicate. The SAIX leadership is resisting the proposed 'Global Common Resource' designation. They know it means UN oversight and a ceiling on their computational sovereignty. If the Private Equity group closes the deal before the General Assembly meets, we lose all leverage. We need to frame the nationalization as a security imperative. Remind the board that without our legal protections, their 'movement' is just an unlicensed data monopoly. They have 48 hours to respond to the invitation for the Summit in New York.",
+      "source": "Encrypted Signal - UN Security Council Liaison",
+      "date": "2032-03-19",
+      "flavor": "Diplomacy is just the polite way of saying 'do what we want or we break the rules'."
     }
   ],
   "context": "q15.mp3"
