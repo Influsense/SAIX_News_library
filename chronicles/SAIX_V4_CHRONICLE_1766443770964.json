@@ -1,0 +1,21 @@
+{
+  "version": "4.0",
+  "timestamp": "2025-12-22T22:49:30.964Z",
+  "state": {
+    "quarter": 1,
+    "budget": 12.5,
+    "sovereignty": 20,
+    "politicalSupport": 65,
+    "capacity": 0.2,
+    "revenue": 15,
+    "history": [],
+    "decisionLogs": [],
+    "currentPhase": "decision",
+    "newsHeadline": "SAIX DIRECTORATE V4 ESTABLISHED: EUROPEAN SILICON PIVOT INITIATED",
+    "infrastructure": {
+      "datacenters": 1,
+      "gpus": 1,
+      "software": 1
+    }
+  }
+}
