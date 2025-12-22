@@ -1,0 +1,343 @@
+{
+  "version": "3.1",
+  "timestamp": "2025-12-22T22:32:18.063Z",
+  "state": {
+    "quarter": 20,
+    "budget": -1.7,
+    "sovereignty": 100,
+    "politicalSupport": 63,
+    "capacity": 0.2,
+    "revenue": 15,
+    "history": [
+      {
+        "quarter": 1,
+        "decision": "Sovereign Foundations"
+      },
+      {
+        "quarter": 2,
+        "decision": "EU Chip Alliance"
+      },
+      {
+        "quarter": 3,
+        "decision": "Sales Push"
+      },
+      {
+        "quarter": 4,
+        "decision": "Soft Power"
+      },
+      {
+        "quarter": 5,
+        "decision": "Digital Fortress"
+      },
+      {
+        "quarter": 6,
+        "decision": "Eastern Diplomacy"
+      },
+      {
+        "quarter": 7,
+        "decision": "Mission Focus"
+      },
+      {
+        "quarter": 8,
+        "decision": "Standard Setter"
+      },
+      {
+        "quarter": 9,
+        "decision": "Strict Focus"
+      },
+      {
+        "quarter": 10,
+        "decision": "Stability"
+      },
+      {
+        "quarter": 11,
+        "decision": "Independence"
+      },
+      {
+        "quarter": 12,
+        "decision": "Quantum Bet"
+      },
+      {
+        "quarter": 13,
+        "decision": "Niche"
+      },
+      {
+        "quarter": 14,
+        "decision": "Hardened"
+      },
+      {
+        "quarter": 15,
+        "decision": "Go Global"
+      },
+      {
+        "quarter": 16,
+        "decision": "Cash Flow"
+      },
+      {
+        "quarter": 17,
+        "decision": "Independence"
+      },
+      {
+        "quarter": 18,
+        "decision": "Continuity"
+      },
+      {
+        "quarter": 19,
+        "decision": "High Stakes"
+      },
+      {
+        "quarter": 20,
+        "decision": "Reflective"
+      }
+    ],
+    "decisionLogs": [
+      {
+        "quarter": 1,
+        "decisionName": "Sovereign Foundations",
+        "optionChosen": "European Alternatives",
+        "impact": "Slower but genuinely sovereign.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 9,
+          "sovereignty": 35,
+          "support": 55
+        }
+      },
+      {
+        "quarter": 2,
+        "decisionName": "EU Chip Alliance",
+        "optionChosen": "EU Consortium",
+        "impact": "Expensive and slow, but builds genuine hardware freedom.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 4,
+          "sovereignty": 55,
+          "support": 50
+        }
+      },
+      {
+        "quarter": 3,
+        "decisionName": "Sales Push",
+        "optionChosen": "Commercial Push",
+        "impact": "Opened doors to commercial partners and third-party capital.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 5,
+          "sovereignty": 45,
+          "support": 58
+        }
+      },
+      {
+        "quarter": 4,
+        "decisionName": "Soft Power",
+        "optionChosen": "Quiet Diplomacy",
+        "impact": "Maintains the card for future negotiations.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 5.5,
+          "sovereignty": 50,
+          "support": 63
+        }
+      },
+      {
+        "quarter": 5,
+        "decisionName": "Digital Fortress",
+        "optionChosen": "Sovereignty Focus",
+        "impact": "Double down on European autonomy.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 4.5,
+          "sovereignty": 60,
+          "support": 68
+        }
+      },
+      {
+        "quarter": 6,
+        "decisionName": "Eastern Diplomacy",
+        "optionChosen": "Negotiate East",
+        "impact": "Political risk high, supply remains unstable.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 4.5,
+          "sovereignty": 45,
+          "support": 63
+        }
+      },
+      {
+        "quarter": 7,
+        "decisionName": "Mission Focus",
+        "optionChosen": "Culture Initiative",
+        "impact": "Moral boost via mission-driven research.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 4,
+          "sovereignty": 50,
+          "support": 78
+        }
+      },
+      {
+        "quarter": 8,
+        "decisionName": "Standard Setter",
+        "optionChosen": "Compliance Leader",
+        "impact": "Sets global standard for trustworthy AI.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 3,
+          "sovereignty": 60,
+          "support": 83
+        }
+      },
+      {
+        "quarter": 9,
+        "decisionName": "Strict Focus",
+        "optionChosen": "Euro-Centricity",
+        "impact": "Focus remains strictly on the European stack.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 3,
+          "sovereignty": 70,
+          "support": 78
+        }
+      },
+      {
+        "quarter": 10,
+        "decisionName": "Stability",
+        "optionChosen": "Gov Contracts",
+        "impact": "Stable long-term government revenue secured.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 8,
+          "sovereignty": 75,
+          "support": 93
+        }
+      },
+      {
+        "quarter": 11,
+        "decisionName": "Independence",
+        "optionChosen": "Cut the Cord",
+        "impact": "Accelerated move toward full autonomy.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 6,
+          "sovereignty": 95,
+          "support": 83
+        }
+      },
+      {
+        "quarter": 12,
+        "decisionName": "Quantum Bet",
+        "optionChosen": "Quantum Future",
+        "impact": "High-risk, high-reward move for tech supremacy.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 1,
+          "sovereignty": 100,
+          "support": 73
+        }
+      },
+      {
+        "quarter": 13,
+        "decisionName": "Niche",
+        "optionChosen": "Sovereign Branding",
+        "impact": "Differentiate as a uniquely non-corporate entity.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 0.5,
+          "sovereignty": 100,
+          "support": 78
+        }
+      },
+      {
+        "quarter": 14,
+        "decisionName": "Hardened",
+        "optionChosen": "Fortress SAIX",
+        "impact": "Hardened infrastructure, reduced public visibility.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": -1.5,
+          "sovereignty": 100,
+          "support": 73
+        }
+      },
+      {
+        "quarter": 15,
+        "decisionName": "Go Global",
+        "optionChosen": "Global SAIX",
+        "impact": "A bold bid to become the world's alternative backbone.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": -5.5,
+          "sovereignty": 100,
+          "support": 88
+        }
+      },
+      {
+        "quarter": 16,
+        "decisionName": "Cash Flow",
+        "optionChosen": "Maximize Returns",
+        "impact": "Focus on maximizing current infrastructure revenue.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": 2.5,
+          "sovereignty": 95,
+          "support": 98
+        }
+      },
+      {
+        "quarter": 17,
+        "decisionName": "Independence",
+        "optionChosen": "Assert Autonomy",
+        "impact": "European independence, fully realized but isolated.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": -1.5,
+          "sovereignty": 100,
+          "support": 83
+        }
+      },
+      {
+        "quarter": 18,
+        "decisionName": "Continuity",
+        "optionChosen": "Groom Successor",
+        "impact": "Continuity via a hand-picked protégé.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": -1.7,
+          "sovereignty": 100,
+          "support": 88
+        }
+      },
+      {
+        "quarter": 19,
+        "decisionName": "High Stakes",
+        "optionChosen": "Call Bluff",
+        "impact": "Extremely high stakes for the Directorate's future.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": -1.7,
+          "sovereignty": 100,
+          "support": 58
+        }
+      },
+      {
+        "quarter": 20,
+        "decisionName": "Reflective",
+        "optionChosen": "Honest Assessment",
+        "impact": "A reflective look at successes and failures.",
+        "headline": "Global markets await next Director briefing...",
+        "metrics": {
+          "budget": -1.7,
+          "sovereignty": 100,
+          "support": 63
+        }
+      }
+    ],
+    "currentPhase": "game_over",
+    "newsHeadline": "Global markets await next Director briefing...",
+    "infrastructure": {
+      "datacenters": 1,
+      "gpus": 1,
+      "software": 1
+    }
+  }
+}
