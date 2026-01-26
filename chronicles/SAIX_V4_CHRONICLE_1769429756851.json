@@ -1,0 +1,87 @@
+{
+  "version": "4.0",
+  "timestamp": "2026-01-26T12:15:56.850Z",
+  "state": {
+    "quarter": 5,
+    "budget": 8.5,
+    "sovereignty": 65,
+    "politicalSupport": 40,
+    "capacity": 0.2,
+    "revenue": 15,
+    "history": [
+      {
+        "quarter": 1,
+        "decision": "Sovereign Foundations"
+      },
+      {
+        "quarter": 2,
+        "decision": "EU Chip Alliance"
+      },
+      {
+        "quarter": 3,
+        "decision": "Emergency Funding"
+      },
+      {
+        "quarter": 4,
+        "decision": "Soft Power"
+      }
+    ],
+    "decisionLogs": [
+      {
+        "quarter": 1,
+        "decisionName": "Sovereign Foundations",
+        "optionChosen": "European Alternatives",
+        "impact": "Slower but genuinely sovereign.",
+        "headline": "**Velocity Sacrificed: Neo-Cities Decouple From Megacorp Grids to Reclaim Sovereign Autonomy.**",
+        "metrics": {
+          "budget": 9,
+          "sovereignty": 35,
+          "support": 55
+        }
+      },
+      {
+        "quarter": 2,
+        "decisionName": "EU Chip Alliance",
+        "optionChosen": "EU Consortium",
+        "impact": "Expensive and slow, but builds genuine hardware freedom.",
+        "headline": "**Sovereign Silicon: Brussels pays a premium to sever the global hardware tether.**",
+        "metrics": {
+          "budget": 4,
+          "sovereignty": 55,
+          "support": 50
+        }
+      },
+      {
+        "quarter": 3,
+        "decisionName": "Emergency Funding",
+        "optionChosen": "Request Funding",
+        "impact": "Member states provide emergency funding.",
+        "headline": "**Member states authorize emergency liquidity to stabilize volatile neural-credit markets.**",
+        "metrics": {
+          "budget": 8,
+          "sovereignty": 60,
+          "support": 35
+        }
+      },
+      {
+        "quarter": 4,
+        "decisionName": "Soft Power",
+        "optionChosen": "Quiet Diplomacy",
+        "impact": "Maintains the card for future negotiations.",
+        "headline": "**Sovereign Data-Cultural Bloc hedges influence, retaining leverage for orbital debt-restructuring.**",
+        "metrics": {
+          "budget": 8.5,
+          "sovereignty": 65,
+          "support": 40
+        }
+      }
+    ],
+    "currentPhase": "decision",
+    "newsHeadline": "**Sovereign Data-Cultural Bloc hedges influence, retaining leverage for orbital debt-restructuring.**",
+    "infrastructure": {
+      "datacenters": 1,
+      "gpus": 1,
+      "software": 1
+    }
+  }
+}
