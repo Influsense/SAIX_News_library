@@ -1,0 +1,39 @@
+{
+  "version": "4.0",
+  "timestamp": "2026-01-26T13:19:14.847Z",
+  "state": {
+    "quarter": 2,
+    "budget": 11.5,
+    "sovereignty": 22,
+    "politicalSupport": 70,
+    "capacity": 0.2,
+    "revenue": 15,
+    "history": [
+      {
+        "quarter": 1,
+        "decision": "Hybrid Strategy"
+      }
+    ],
+    "decisionLogs": [
+      {
+        "quarter": 1,
+        "decisionName": "Hybrid Strategy",
+        "optionChosen": "Hybrid Approach",
+        "impact": "A balanced middle ground.",
+        "headline": "**Neo-Zurich Accord: Mega-Corps and States Ratify Hybrid Sovereign Data-Zones.**",
+        "metrics": {
+          "budget": 11.5,
+          "sovereignty": 22,
+          "support": 70
+        }
+      }
+    ],
+    "currentPhase": "decision",
+    "newsHeadline": "**Neo-Zurich Accord: Mega-Corps and States Ratify Hybrid Sovereign Data-Zones.**",
+    "infrastructure": {
+      "datacenters": 1,
+      "gpus": 1,
+      "software": 1
+    }
+  }
+}
